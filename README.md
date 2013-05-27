@@ -1,6 +1,6 @@
 masterchef-syari
 ================
 
-simple rpg game from images
+simple visual novel game from images
 
 demo : http://ilmusuper.com/masterchef/
